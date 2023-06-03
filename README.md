@@ -1,4 +1,4 @@
-# ChatGPT Prompt-Engineering-for-Developers, a short course by DeepLearning.AI
+#### ChatGPT Prompt-Engineering-for-Developers, a short course by DeepLearning.AI
 
 ### Course Contents:
  - Introduction
